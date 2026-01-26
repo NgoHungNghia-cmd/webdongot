@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="nhom.css">
+</head> 
+<body>
+
+<header id="header-container"></header>
+
+<main>
+      <section>
+            <div id="banner"></div>
+      </section>
+
+</main>
+
+
+<div class="top-banner">
+
+<div class="left">/ᐠ｡ꞈ｡ᐟ\</div>
+
+    <div class="banner-content">
+        <h1>Nhóm phát triển</h1>
+        <p>Trang chủ / Nhóm phát triển</p>
+    </div>
+
+<div class="right">/ᐠ｡ꞈ｡ᐟ\</div>
+
+</div>
+
+    <div class="gallery">
+    <ul class="cards">
+        <li class="card"><img src="anhnut/NgoHungNghia.jpg" alt=""></li>
+        
+        <li class="card"><img src="anhnut/LeThiKhanhHien.jpg" alt=""></li>
+        
+        <li class="card"><img src="anhnut/HoangThiGiaNhi.png" alt=""></li>
+    </ul>
+    <div class="nav-buttons">
+        <button id="prev">PREV</button>
+        <button id="next">NEXT</button>
+    </div>
+    </div>
+
+
+<div id="footer"></div>
+
+<script src="nhom.js"></script>
+
+<script>
+
+fetch("menu.html")
+            .then(res => res.text())
+            .then(data => {
+                document.getElementById("header-container").innerHTML = data;
+                // Nếu menu mobile không bấm được, bạn hãy copy code main.js vào đây
+            });
+
+  fetch("footer.html")
+    .then(res => res.text())
+    .then(data => document.getElementById("footer").innerHTML = data);
+</script>  
+
+</body>
+</html>
