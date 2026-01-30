@@ -20,3 +20,5 @@ Dự án này được hoàn thiện bằng:
 2. Mở file `index.html` bằng trình duyệt (Chrome, Edge, Safari).
 3. Hoặc xem bản Live tại: https://ngohungnghia-cmd.github.io/webdongot/
 
+## Giao điện trang web
+Ngô Hùng Nghĩa &amp; Lê Thị Khánh Hiền &amp; Hoàng Thị Gia Nhi
