@@ -26,3 +26,6 @@ Ngô Hùng Nghĩa &amp; Lê Thị Khánh Hiền &amp; Hoàng Thị Gia Nhi
 
 <img width="1918" height="878" alt="Image" src="https://github.com/user-attachments/assets/4b2093ae-9a48-4ec5-8d95-3ec0dfa914d6" />
 
+<img width="1919" height="882" alt="Image" src="https://github.com/user-attachments/assets/1af195aa-9178-438b-a270-db8cbb4da556" />
+
+<img width="1917" height="877" alt="Image" src="https://github.com/user-attachments/assets/7832d8f4-3703-4587-b16d-dfe4d9ae40f4" />
