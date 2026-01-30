@@ -22,3 +22,7 @@ Dự án này được hoàn thiện bằng:
 
 ## Giao điện trang web
 Ngô Hùng Nghĩa &amp; Lê Thị Khánh Hiền &amp; Hoàng Thị Gia Nhi
+<img width="1918" height="734" alt="Image" src="https://github.com/user-attachments/assets/d631e4fe-7cca-4c1a-ba2d-3e51d5e6b262" />
+
+<img width="1918" height="878" alt="Image" src="https://github.com/user-attachments/assets/4b2093ae-9a48-4ec5-8d95-3ec0dfa914d6" />
+
