@@ -19,6 +19,7 @@ Dự án này được hoàn thiện bằng:
 1. Tải thư mục này về máy.
 2. Mở file `index.html` bằng trình duyệt (Chrome, Edge, Safari).
 3. Hoặc xem bản Live tại: https://ngohungnghia-cmd.github.io/webdongot/
+4. link youtube của web: https://youtu.be/bdTQP-yX7b4
 
 ## Giao điện trang web
 Ngô Hùng Nghĩa &amp; Lê Thị Khánh Hiền &amp; Hoàng Thị Gia Nhi
