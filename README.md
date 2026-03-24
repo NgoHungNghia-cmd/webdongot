@@ -18,7 +18,7 @@ Dự án này được hoàn thiện bằng:
 ## 🚀 Cách xem dự án
 1. Tải thư mục này về máy.
 2. Mở file `index.html` bằng trình duyệt (Chrome, Edge, Safari).
-3. Hoặc xem bản Live tại: https://ngohungnghia-cmd.github.io/webdongot/
+3. Hoặc xem bản Live tại: https://ngohungnghia-cmd.github.io/wedsitengot/
 4. link youtube: https://youtu.be/bdTQP-yX7b4
 
 ## Giao điện trang web
